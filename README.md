@@ -40,9 +40,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: T MOUNISH
+### Name: Thrinesh Royal
 
-### Register Number: 212223240098
+### Register Number: 212223230226
 
 ```python
 from google.colab import drive
@@ -277,19 +277,23 @@ predict_image(model,image_index=25,dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss, Validation Loss Vs Iteration Plot
-<img width="886" height="582" alt="image" src="https://github.com/user-attachments/assets/a2b5364e-7dd2-478b-80cf-7e51434bf1e1" />
+<img width="1344" height="645" alt="image" src="https://github.com/user-attachments/assets/3f0d1b60-6df4-4d5d-b004-80432abfa445" />
 
-<img width="647" height="497" alt="image" src="https://github.com/user-attachments/assets/45c60e86-b340-4540-9a10-0b174c8584fd" />
+
+<img width="865" height="692" alt="image" src="https://github.com/user-attachments/assets/ef409280-1d53-46b6-b7ea-4bfe8be679c8" />
+
 
 
 ## Confusion Matrix
-<img width="587" height="507" alt="image" src="https://github.com/user-attachments/assets/2778931c-071d-4dbb-bbe0-0aa8a3031a4b" />
+<img width="1306" height="751" alt="image" src="https://github.com/user-attachments/assets/91eeb5a1-fa80-4447-b63b-0cfca10b9173" />
+
 
 
 
 
 ## Classification Report
-<img width="417" height="172" alt="image" src="https://github.com/user-attachments/assets/88f2652f-35a2-4994-9e51-518d0764a783" />
+<img width="703" height="257" alt="image" src="https://github.com/user-attachments/assets/9ee788a8-8202-4c92-8a24-013f4598a9cd" />
+
 
 ### New Sample Data Prediction
 
